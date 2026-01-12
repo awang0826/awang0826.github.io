@@ -8,7 +8,7 @@ published: true
 ---
 
 Hi, I'm Alan. I'm a high school senior from San Jose, California who enjoys physics, football, movies, and philosophy, among other things. This website is still under construction, but for now it'll host my blog, where I ~~hope to~~ will definitely post frequently👍.
-<!-- 
+{% comment %}
 [Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
 
 If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
@@ -21,4 +21,4 @@ PS: If you liked the theme, do star it on GitHub!
 
 - [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
 - [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog [//]
--->
+{% endcomment %}
