@@ -5,7 +5,7 @@ title: Alan Wang
 
 baseurl: "/" #name of GitHub repository
 url: "https://awang0826.github.io" #custom url to be used instead of GitHub repository
-email: #
+email: "alan.wang0826@gmail.com"
 
 # Pagination
 paginate: 4
@@ -15,7 +15,7 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 # linkedin: "#"
 # stackoverflow: "#"
-# github: "#"
+# githu b: "#"
 # researchgate: "#"
 # orcid: "#"
 # quora: "#"
