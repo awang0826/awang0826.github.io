@@ -15,7 +15,7 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 # linkedin: "#"
 # stackoverflow: "#"
-# githu b: "#"
+# github: "https://github.com/awang0826"
 # researchgate: "#"
 # orcid: "#"
 # quora: "#"
