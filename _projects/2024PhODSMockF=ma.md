@@ -2,6 +2,7 @@
 layout: post
 title: 2024 PhODS Mock F=ma Exam
 description: 2024 Physics Olympiads Discord Server Mock F=ma Exam
+order: 4
 ---
 After being accepted as a problem writer, I had to go an overnight in-person competition and couldn't write anything for 3 days. By the time I came back, 24 out of the 25 problems were already written...
 
