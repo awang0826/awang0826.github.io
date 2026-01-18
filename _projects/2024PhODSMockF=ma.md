@@ -9,4 +9,4 @@ After being accepted as a problem writer, I had to attend an overnight in-person
 Ultimately, I was the primary author of one problem (P14). Looking at the exam now, I'd say that it's one of the best student-made mocks out there[^1] and a great resource if you've exhausted all of the past F=ma exams. Here are the 
 [problems](https://awang0826.github.io/problemwriting/2024_PhODS_Mock_Fma.pdf){:target="_blank"} and [solutions](https://awang0826.github.io/problemwriting/2024_PhODS_Mock_F_ma_Solutions.pdf){:target="_blank"}. The "USAPhO cutoff" is 15/25.
 
-[^1]: and definitely the best mock in the PhODS series
+[^1]: it's definitely the best mock in the PhODS series
