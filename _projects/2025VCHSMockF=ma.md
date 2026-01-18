@@ -4,7 +4,7 @@ title: 2025 VCHS Mock F=ma
 description: A mock F=ma exam run by Valley Christian High School Physics Club
 ---
 
-Example modified from [here](https://awang0826.github.io/_projects/2025 VCHS Mock F=ma Solutions.pdf){:target="_blank"}.
+Example modified from [here](https://awang0826.github.io/_projects/2025_VCHS_Mock_F=ma_Solutions.pdf){:target="_blank"}.
 
 H1 Header
 ============
