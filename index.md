@@ -11,4 +11,4 @@ Hi, I'm Alan, and welcome to my personal website. I'm a senior in high school fr
 
 This website currently hosts my blog and some problems that I've written for physics olympiads. In the future, I'll be expanding it to include more academic-related things.
 
-Feel free to send me an email at alan [dot] wang0826 [at] gmail [dot] com if you'd like to talk!
+If you'd like to talk, feel free to send me an email at alan [dot] wang0826 [at] gmail [dot] com!
