@@ -10,8 +10,8 @@ published: true
 
 	<div class="gallery">
 
-
-  {% for project in site.projects %}
+  {% assign projects_sorted = site.projects | sort: "order" %}
+  {% for project in projects_sorted %}
 
   {% if project.redirect %}
   <div class="projectTile">
