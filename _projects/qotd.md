@@ -10,7 +10,7 @@ along with their in-contest solve rates.
 Season 11
 ============
 
-Problem writing for this season is in-progress! Join the Discord server to participate when it starts :)
+Problem writing for this season is in-progress! Join PhODS to participate when it starts :)
 
 Season 10
 ============
