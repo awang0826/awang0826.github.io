@@ -9,6 +9,6 @@ The problems can be found [here](https://awang0826.github.io/problemwriting/2025
 
 The live contest took place over zoom on 9/21/2025, and you can see the score distribution below.
 
-![a](https://awang0826.github.io/problemwriting/2025_VCHS_Mock_Fma_Distribution.png "a")
+![ ](https://awang0826.github.io/problemwriting/2025_VCHS_Mock_Fma_Distribution.png " ")
 
 [^1]: I find the 2024 UHS and 2024 PhODS exams more realistic than this test.
