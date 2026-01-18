@@ -45,12 +45,8 @@ compress_html:
 collections:
   projects:
     output: true
+    sort_by: order
     permalink: /projects/:name/
-    order:
-      - 2025VCHSMockF=ma
-      - opho
-      - qotd
-      - 2024PhODSMockF=ma
 
 sass:
   sass_dir: /assets/css/_sass
