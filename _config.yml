@@ -47,7 +47,7 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - 2025VCHSMockF=ma.md.md
+      - 2025VCHSMockF=ma.md
       - opho.md
       - qotd.md
       - 2024PhODSMockF=ma.md
