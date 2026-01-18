@@ -2,6 +2,7 @@
 layout: post
 title: PhODS QOTD
 description: Physics Olympiads Discord Server Question of the Day
+order: 3
 ---
 I'm a problem writer for the Question of the Day contest on the [Physics Olympiads Discord Server](https://discord.com/invite/phods){:target="_blank"}. You can find my previous problems (and their solutions) below,
 along with their in-contest solve rates.
