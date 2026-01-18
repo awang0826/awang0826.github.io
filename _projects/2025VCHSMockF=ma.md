@@ -7,7 +7,7 @@ In retrospect, the difficulty of this exam is quite a bit higher than that of a 
 
 The problems can be found [here](https://awang0826.github.io/problemwriting/2025_VCHS_Mock_Fma.pdf){:target="_blank"}, and the solutions are [here](https://awang0826.github.io/problemwriting/2025_VCHS_Mock_Fma_Exam_Solutions.pdf){:target="_blank"}.
 
-The live contest took place over zoom on 9/21/2025, and you can see the score distribution below.
+The live contest took place over zoom on 9/21/2025, and you can see the score distribution below.g
 
 ![](https://awang0826.github.io/problemwriting/2025_VCHS_Mock_Fma_Distribution.png "")
 
